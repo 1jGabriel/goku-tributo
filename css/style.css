@@ -1,0 +1,15 @@
+h2{
+   padding: 3%;
+ text-align: right;
+}
+
+div{
+   padding: 2%;
+}
+.box-of-div{
+   border-radius: 1%;
+       margin-top: 4%;
+    border: 1px solid lightgrey;
+    box-sizing: content-box;
+    box-shadow: 10px 10px 5px #888888;
+}
